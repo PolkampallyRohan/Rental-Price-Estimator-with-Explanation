@@ -5,3 +5,4 @@ shap
 joblib
 requests
 python-dotenv
+ollama
