@@ -1,0 +1,18 @@
+{
+  "city": "Cambridge",
+  "neighborhood": "Inman Square",
+  "beds": 2,
+  "baths": 1,
+  "sqft": 900,
+  "year_built": 1910,
+  "features": [
+    "in_unit_laundry",
+    "dishwasher",
+    "hardwood_floors",
+    "recently_renovated",
+    "pets_allowed"
+  ],
+  "parking": "street_only",
+  "floor": 3,
+  "has_elevator": false
+}
